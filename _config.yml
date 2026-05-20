@@ -23,7 +23,7 @@ repository               : "adam-burnett/adam-burnett.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot_simons_square.jpeg"
+  avatar           : "headshot_simons_square.jpg"
   name             : "Adam Burnett"
   pronouns         : # example: "she/her"  
   bio              : "Climate science postdoc at NYU and Simons Foundation Junior Fellow"
