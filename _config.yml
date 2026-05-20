@@ -23,13 +23,13 @@ repository               : "adam-burnett/adam-burnett.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot_simons_square.jpeg"
   name             : "Adam Burnett"
   pronouns         : # example: "she/her"  
   bio              : "Climate science postdoc at NYU and Simons Foundation Junior Fellow"
   location         : "New York, NY"
   employer         : "New York University"
-  uri              : # URL
+  uri              : "https://adam-burnett.github.io"
   email            : "ac12916@nyu.edu" 
 
   # Academic websites
