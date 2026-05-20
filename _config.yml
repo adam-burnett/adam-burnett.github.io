@@ -29,7 +29,7 @@ author:
   bio              : "Climate science postdoc at NYU and Simons Foundation Junior Fellow"
   location         : "New York, NY"
   employer         : "New York University"
-  uri              : "https://adam-burnett.github.io"
+  uri              : # "https://adam-burnett.github.io"
   email            : "ac12916@nyu.edu" 
 
   # Academic websites
