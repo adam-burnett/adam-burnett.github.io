@@ -3,7 +3,6 @@ title: "Estimating polar cap density and medium-frequency burst source heights u
 collection: publications
 category: manuscripts
 permalink: /publication/burnett-labelle-2020
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
 venue: 'Journal of Geophysical Research: Space Physics'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JA028166'
