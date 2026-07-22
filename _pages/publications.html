@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<ul>
 {% for pub in site.data.publications %}
-  <li><p>{{ pub.citation }} <a href="{{ pub.url }}">{{ pub.url }}</a></p></li>
+  <p>{{ pub.citation }} <a href="{{ pub.url }}">{{ pub.url }}</a></p>
 {% endfor %}
-</ul>
