@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-PhD, Earth System Science, Stanford University, 2025
+PhD, Earth System Science, Stanford University, 2025<br>
 BA, Physics, Dartmouth College, 2018
 
 {% comment %}
